@@ -40,7 +40,8 @@ let allowedOrigins = [
   "https://pososf.onrender.com",
 "https://pososf.netlify.app",
   "http://localhost:3001",
-   "http://localhost:3002"
+   "http://localhost:3002",
+  "https://inventory-12.netlify.app"
 
 ];
 
